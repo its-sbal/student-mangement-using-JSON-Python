@@ -1,0 +1,4 @@
+student,student,S
+teacher,teacher,T
+admin,admin,A
+t,Sbal123#,T
