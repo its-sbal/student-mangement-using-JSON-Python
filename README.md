@@ -1,1 +1,1 @@
-# student-mangement-using-JSON-Python
+# student-mangement-using-JSON and Python
